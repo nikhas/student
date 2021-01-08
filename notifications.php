@@ -23,14 +23,14 @@
                             <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="notifications.html">Notifications</a>
+                            <a class="nav-link" href="notifications.php">Notifications</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="Departments.html">Department</a>
+                            <a class="nav-link" href="Departments.php">Department</a>
                           </li>
                         
                             <li class="nav-item">
-                                <a class="nav-link" href="condact.html">Condact Us</a>
+                                <a class="nav-link" href="condact.php">Condact Us</a>
                               </li>
                           
                         </ul>
