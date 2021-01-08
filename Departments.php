@@ -52,7 +52,7 @@
                     <img src="images\comp.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                       <h5 class="card-title">Computer Science and Engineering</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <p class="card-text">Computer Science Engineering (CSE) encompasses a variety of topics that relates to computation, like analysis of algorithms, programming languages, program design, software, and computer hardware. Computer Science engineering has roots in electrical engineering, mathematics, and linguistics.</p>
                       <a href="#" class="btn btn-primary">Go </a>
                     </div>
                   </div>
@@ -60,7 +60,7 @@
                     <img src="images\eee.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                       <h5 class="card-title">Electrical and Electronics Engineering</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <p class="card-text"> Electrical Engineering is that branch of Engineering which deals with the study of application of electricity, electronics and electromagnetism. Trained electrical engineers design electric circuits and equipment. They work on large power plants as well in small hardware companies which includes designing, manufacturing and operating power plants, industrial machinery, electrical motors, computer chips and ignition systems for automobiles, aircrafts, space crafts and all kinds of engines.</p>
                       <a href="#" class="btn btn-primary">Go </a>
                     </div>
                   </div>
@@ -70,7 +70,7 @@
                     <img src="images\ec.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                       <h5 class="card-title">Electronics and Communication Engineering</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <p class="card-text">Electronic engineering (also called electronics and communications engineering) is an electrical engineering discipline which utilizes nonlinear and active electrical components (such as semiconductor devices, especially transistors and diodes) to design electronic circuits, devices, integrated circuits and their systems. The discipline typically also designs passive electrical components, usually based on printed circuit boards.</p>
                       <a href="#" class="btn btn-primary">Go </a>
                     </div>
                   </div>
@@ -78,7 +78,7 @@
                     <img src="images\mech.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                       <h5 class="card-title">Mechanical Engineering</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <p class="card-text">Mechanical engineering is the study, design, development, construction, and testing of mechanical and thermal sensors and devices, including tools, engines, and machines. Mechanical engineers work mostly in engineering services, research and development, and manufacturing.</p>
                       <a href="#" class="btn btn-primary">Go </a>
                     </div>
                   </div>
