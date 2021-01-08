@@ -48,7 +48,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h2>Our Condact Details</h2>
+                <h2>Our Contact Details</h2>
             </div>
         </div>
     </div>
