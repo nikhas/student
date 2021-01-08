@@ -31,7 +31,7 @@
                           
                     
                             <li class="nav-item">
-                                <a class="nav-link" href="condact.php">Condact Us</a>
+                                <a class="nav-link" href="condact.php">Contact Us</a>
                               </li>
                           
                         </ul>
