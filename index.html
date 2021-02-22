@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="stylesheet" href="css/style.css">
+
+  
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
+<body class="mybody">
     <div class="container">
         <div class="row">
             <div class="col col-12 col-sm-12 col-md-12  col-lg-12 col-xl-12 col-xxl-12">
-                <nav class="navbar navbar-expand-lg navbar-light bg-danger">
+                <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
                     <div class="container-fluid">
                       <a class="navbar-brand" href="index.html">Student</a>
                       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -51,16 +54,16 @@
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img height="500" width="500" src="images\stud1.jpg" class="d-block w-100" alt="...">
+                        <img height="400" width="500" src="images\stud1.jpg" class="d-block w-100" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img  height="500" width="500" src="images\stud2.jpg" class="d-block w-100" alt="...">
+                        <img  height="400" width="500" src="images\stud2.jpg" class="d-block w-100" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img  height="500" width="500" src="images\stud3.jpg" class="d-block w-100" alt="...">
+                        <img  height="400" width="500" src="images\stud3.jpg" class="d-block w-100" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img  height="500" width="500" src="images\stud4.jpg" class="d-block w-100" alt="...">
+                        <img  height="400" width="500" src="images\stud4.jpg" class="d-block w-100" alt="...">
                       </div>
                       
                     </div>
@@ -81,29 +84,38 @@
             <div class="col col-12 col-sm-12 col-md-12  col-lg-12 col-xl-12 col-xxl-12">
                 <tr>
                     <td>Name</td>
-                    <td><input type="text" class="form-control"></td>
+                    <td><input type="text" class="form-control" placeholder=" your full name..."></td>
                 </tr>
                 <tr>
                     <td>Roll No</td>
-                    <td><input type="text" class="form-control"></td>
+                    <td><input type="text" class="form-control" placeholder="your rollno..."></td>
                 </tr>
                 <tr>
                     <td>Admission no</td>
-                    <td><input type="text" class="form-control"></td>
+                    <td><input type="text" class="form-control" placeholder="your admission no..."></td>
                 </tr>
                 <tr>
                     <td>Department</td>
-                    <td><input type="text" class="form-control"></td>
+                    <td><input type="text" class="form-control" placeholder="your Department..."></td>
                 </tr>
                 <tr>
-                    <td><button class="btn btn-primary">Reset</button></td>
-                    <td><button class="btn btn-success">Submit</button></td>
+                    <td><button   onclick="rebtn()" class="btn btn-primary">Reset</button></td>
+                    <td><button  onclick="okbtn()"class="btn btn-success">Submit</button></td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td><h2 id="demo"></h2></td>
                 </tr>
             </div>
         </div>
     </div>
-
     
+
+    <script src="js/script.js">
+
+    </script>
+
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
     

@@ -1,0 +1,15 @@
+.mybody{
+    background-color: palevioletred;
+}
+.not{
+    background-color: darkblue;
+}
+.dep{
+    background-color: palegreen;
+}
+.con{
+    background-color:lightblue;
+}
+p{
+    font-size: 20px;
+}
